@@ -1,3 +1,3 @@
 import "./globals.css";
-export const metadata={title:"Tortoise Evidence",description:"Evidence-Based Tortoise Care, Health & Welfare"};
+export const metadata={title:{default:"Tortoise Evidence | Science-Based Tortoise Care",template:"%s | Tortoise Evidence"},description:"Science-based tortoise care built from veterinary medicine, peer-reviewed research and field ecology. Evidence strength and species limits are stated clearly.",robots:{index:true,follow:true},openGraph:{title:"Tortoise Evidence",description:"Science-Based Tortoise Care, Without the Myths.",type:"website"}};
 export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
