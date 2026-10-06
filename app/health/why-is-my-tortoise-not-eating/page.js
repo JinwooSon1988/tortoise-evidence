@@ -1,6 +1,6 @@
 export const metadata={title:"Why Is My Tortoise Not Eating?",description:"A practical, evidence-graded guide to loss of appetite in tortoises: temperature, season, reproduction, husbandry and medical red flags."};
 const refs=[
-["Frankenberger J, Kölle P. Assessment of the nutritional condition in Mediterranean tortoises (Testudo spp.) — an overview. Tierärztl Prax. 2024.","https://pubmed.ncbi.nlm.nih.gov/39637919/"],
+["Frankenberger J, Kölle P. Assessment of the nutritional condition in Mediterranean tortoises (Testudo spp.) - an overview. Tierarztl Prax Ausg K Kleintiere Heimtiere. 2024;52(6):367–374.","https://pubmed.ncbi.nlm.nih.gov/39637919/"],
 ["Brooks MA. Important Factors in Chelonian Nutrition. Vet Clin North Am Exot Anim Pract. 2024;27(1):85–100.","https://pubmed.ncbi.nlm.nih.gov/37661549/"],
 ["Moller C, Heatley JJ. Diagnostic Clinical Pathology of Tortoises. Vet Clin North Am Exot Anim Pract. 2022;25(3):755–783.","https://pubmed.ncbi.nlm.nih.gov/36122950/"],
 ["Merck Veterinary Manual. Clinical Procedures for Reptiles — Greek tortoise renal disease example.","https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/clinical-procedures-for-reptiles"]
