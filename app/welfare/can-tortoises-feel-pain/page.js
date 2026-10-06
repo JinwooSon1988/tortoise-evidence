@@ -1,7 +1,7 @@
 export const metadata={title:"Can Tortoises Feel Pain?",description:"What science and reptile veterinary medicine show about pain in tortoises, nociception, analgesia, shell injury and humane care."};
 const refs=[
 ["Perry SM, Nevarez JG. Pain and Its Control in Reptiles. Vet Clin North Am Exot Anim Pract. 2018;21(1):1–16.","https://pubmed.ncbi.nlm.nih.gov/29127957/"],
-["Mosley CAE. Pain and nociception in reptiles. Vet Clin North Am Exot Anim Pract. 2011;14(1):45–60.","https://pubmed.ncbi.nlm.nih.gov/?term=Mosley+Pain+nociception+reptiles+2011"],
+["Mosley CAE. Pain and nociception in reptiles. Vet Clin North Am Exot Anim Pract. 2011;14(1):45–60.","https://pubmed.ncbi.nlm.nih.gov/21074702/"],
 ["Sladky KK. Analgesia in reptiles: clinical principles and evidence. Reptile medicine literature.","https://pubmed.ncbi.nlm.nih.gov/?term=Sladky+reptile+analgesia"],
 ["Di Salvo A et al. Analgesic and pharmacologic studies in chelonians and reptiles.","https://pubmed.ncbi.nlm.nih.gov/?term=chelonians+analgesia+pain+reptiles"]
 ];
