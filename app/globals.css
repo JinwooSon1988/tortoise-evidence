@@ -107,3 +107,6 @@
 .decisionMatrix>div{border-radius:8px;box-shadow:0 4px 14px rgba(31,55,43,.035)}.decisionMatrix strong{letter-spacing:-.01em}
 .articleGrid h2{scroll-margin-top:30px}.articleGrid .body>p{max-width:760px}.articleGrid .body>ul,.articleGrid .body>ol{max-width:760px}
 @media(max-width:700px){.articleGrid .answerFirst{padding:20px 18px;border-radius:8px}.articleGrid .answerFirst strong{font-size:18px;line-height:1.42}.articleGrid .answerFirst b{font-size:10px}.articleGrid .body>p{font-size:14px;line-height:1.72}}
+
+/* Keep one answer-first layer; legacy duplicate answerBox is intentionally hidden. */
+.article .answerBox{display:none}
