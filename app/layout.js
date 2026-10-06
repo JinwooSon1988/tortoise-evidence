@@ -1,3 +1,4 @@
 import "./globals.css";
-export const metadata={title:{default:"Tortoise Evidence | Science-Based Tortoise Care",template:"%s | Tortoise Evidence"},description:"Science-based tortoise care built from veterinary medicine, peer-reviewed research and field ecology. Evidence strength and species limits are stated clearly.",robots:{index:true,follow:true},openGraph:{title:"Tortoise Evidence",description:"Science-Based Tortoise Care, Without the Myths.",type:"website"}};
+export const metadataBase=new URL("https://tortoise-evidence.sonjinwoo1988.workers.dev");
+export const metadata={title:{default:"Tortoise Evidence | Science-Based Tortoise Care",template:"%s | Tortoise Evidence"},description:"Science-based tortoise care built from veterinary medicine, peer-reviewed research and field ecology. Evidence strength and species limits are stated clearly.",robots:{index:true,follow:true},openGraph:{title:"Tortoise Evidence",description:"Science-Based Tortoise Care, Without the Myths.",type:"website",url:"/",siteName:"Tortoise Evidence"},alternates:{canonical:"/"}};
 export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
