@@ -1,7 +1,7 @@
 export const metadata={title:"Why Are Tortoise Urates White?",description:"What white tortoise urates are, why reptiles excrete uric acid, what texture can and cannot tell you, and when urinary changes need veterinary assessment."};
 const refs=[
 ["Holz P. Anatomy and Physiology of the Reptile Renal System. Vet Clin North Am Exot Anim Pract. 2020;23(1):103–114.","https://pubmed.ncbi.nlm.nih.gov/31759442/"],
-["Johnson JD, Divers SJ. Diseases of the Reptile Renal System. Vet Clin North Am Exot Anim Pract. 2020;23(1):121–130.","https://pubmed.ncbi.nlm.nih.gov/31759443/"],
+["Johnson JG 3rd, Watson MK. Diseases of the Reptile Renal System. Vet Clin North Am Exot Anim Pract. 2020;23(1):115–129.","https://pubmed.ncbi.nlm.nih.gov/31759443/"],
 ["Wilkinson SL, Divers SJ. Clinical Management of Reptile Renal Disease. Vet Clin North Am Exot Anim Pract. 2020;23(1):151–168.","https://pubmed.ncbi.nlm.nih.gov/31759445/"],
 ["Hernandez-Divers SJ. Endoscopic renal evaluation and biopsy of Chelonia. Vet Rec. 2004;154(3):73–80.","https://pubmed.ncbi.nlm.nih.gov/14756502/"]
 ];
