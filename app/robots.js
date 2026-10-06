@@ -1,1 +1,2 @@
+export const dynamic="force-static";
 export default function robots(){const base="https://tortoise-evidence.sonjinwoo1988.workers.dev";return{rules:{userAgent:"*",allow:"/",disallow:"/search/"},sitemap:`${base}/sitemap.xml`}}
