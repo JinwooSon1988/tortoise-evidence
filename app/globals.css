@@ -110,3 +110,25 @@
 
 /* Keep one answer-first layer; legacy duplicate answerBox is intentionally hidden. */
 .article .answerBox{display:none}
+
+/* Mobile article navigation */
+@media(max-width:700px){
+ header{height:62px;padding:0 18px;gap:12px}
+ header .brand{font-size:13px;letter-spacing:.12em}
+ header nav{display:none}
+ header .search,.articlePage .back{font-size:11px;padding:7px 10px}
+ .article{padding:48px 18px 76px}
+ .article>h1{font-size:clamp(38px,11vw,52px);line-height:1.02;margin-bottom:18px}
+ .dek{font-size:16px;line-height:1.65}
+ .articleGrid{grid-template-columns:1fr;gap:30px}
+ .body h2{font-size:28px;line-height:1.2;margin-top:44px}
+ .body p,.body li{font-size:15px;line-height:1.75}
+ aside{display:none}
+ .references p{grid-template-columns:22px 1fr;font-size:12px}
+ .heroInner{padding:72px 18px 62px}
+ .heroInner h1{font-size:clamp(44px,12vw,64px)}
+ .heroPhoto{margin-top:28px}
+ .decisionHero{margin:0 18px;padding:24px 18px 26px}
+ .decisionHero h2{font-size:28px}
+ .decisionPaths{grid-template-columns:1fr}
+}
